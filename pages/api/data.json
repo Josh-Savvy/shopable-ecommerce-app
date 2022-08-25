@@ -1,0 +1,454 @@
+{
+  "clothes": [
+    {
+      "id": "2401",
+      "name": "White Poplin Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Shirt_1.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Shirts",
+      "price": "2590",
+      "stock": 23
+    },
+    {
+      "id": "2402",
+      "name": "Burgandy Flannel Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Shirt_2.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Shirts",
+      "price": "2340",
+      "stock": 23
+    },
+    {
+      "id": "2403",
+      "name": "Red Flannel Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Shirt_3.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Shirts",
+      "price": "2390",
+      "stock": 23
+    },
+    {
+      "id": "2404",
+      "name": "Green Flannel Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Shirt_4.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Shirts",
+      "price": "2120",
+      "stock": 23
+    },
+    {
+      "id": "2405",
+      "name": "Blue Oxford Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Shirt_5.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Shirts",
+      "price": "1970",
+      "stock": 23
+    },
+    {
+      "id": "2406",
+      "name": "Green Utility Hoodie",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Hoodie_1.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Hoodies",
+      "price": "2800",
+      "stock": 23
+    },
+    {
+      "id": "2407",
+      "name": "White Utility Hoodie",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Hoodie_2.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Hoodies",
+      "price": "2600",
+      "stock": 23
+    },
+    {
+      "id": "2408",
+      "name": "Gray Active Hoodie",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Hoodie_3.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Hoodies",
+      "price": "2700",
+      "stock": 23
+    },
+    {
+      "id": "2409",
+      "name": "Green Active Camo Hoodie",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Hoodie_4.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Hoodies",
+      "price": "3100",
+      "stock": 23
+    },
+    {
+      "id": "2410",
+      "name": "Burgundy Flex Polo",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Polo_1.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Polos",
+      "price": "950",
+      "stock": 23
+    },
+    {
+      "id": "2411",
+      "name": "Blue Skinny Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Jeans_1.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Jeans",
+      "price": "2600",
+      "stock": 23
+    },
+    {
+      "id": "2412",
+      "name": "Blue Distressed Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Jeans_2.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Jeans",
+      "price": "2600",
+      "stock": 23
+    },
+    {
+      "id": "2413",
+      "name": "Black Knee Slash Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Jeans_3.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Jeans",
+      "price": "2600",
+      "stock": 23
+    },
+    {
+      "id": "2414",
+      "name": "White Knee Slash Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Jeans_4.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Jeans",
+      "price": "2500",
+      "stock": 23
+    },
+    {
+      "id": "2415",
+      "name": "Khaki Slim Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Jeans_5.jpg?alt=media",
+      "brand": "American Eagle",
+      "category": "Jeans",
+      "price": "2200",
+      "stock": 23
+    },
+    {
+      "id": "2416",
+      "name": "Navy Oxford Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Shirt_1.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Shirts",
+      "price": "2250",
+      "stock": 23
+    },
+    {
+      "id": "2417",
+      "name": "White Oxford Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Shirt_2.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Shirts",
+      "price": "2300",
+      "stock": 23
+    },
+    {
+      "id": "2418",
+      "name": "Blue Poplin Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Shirt_3.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Shirts",
+      "price": "2200",
+      "stock": 23
+    },
+    {
+      "id": "2419",
+      "name": "Red Poplin Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Shirt_4.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Shirts",
+      "price": "2200",
+      "stock": 23
+    },
+    {
+      "id": "2420",
+      "name": "White Pattern Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Shirt_5.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Shirts",
+      "price": "1450",
+      "stock": 23
+    },
+    {
+      "id": "2421",
+      "name": "Gray Colorblock Hoodie",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Hoodie_1.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Hoodies",
+      "price": "2400",
+      "stock": 23
+    },
+    {
+      "id": "2422",
+      "name": "Pink Icon Hoodie",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Hoodie_2.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Hoodies",
+      "price": "2300",
+      "stock": 23
+    },
+    {
+      "id": "2423",
+      "name": "Navy Tie-Dye Icon Hoodie",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Hoodie_3.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Hoodies",
+      "price": "2550",
+      "stock": 23
+    },
+    {
+      "id": "2424",
+      "name": "Navy Colorblock Hoodie",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Hoodie_4.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Hoodies",
+      "price": "2100",
+      "stock": 23
+    },
+    {
+      "id": "2425",
+      "name": "Burgundy Icon Polo",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Polo_1.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Polos",
+      "price": "1150",
+      "stock": 23
+    },
+    {
+      "id": "2426",
+      "name": "Black Mint Icon Polo",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Polo_2.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Polos",
+      "price": "1250",
+      "stock": 23
+    },
+    {
+      "id": "2427",
+      "name": "Pink Icon Polo",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Polo_3.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Polos",
+      "price": "1400",
+      "stock": 23
+    },
+    {
+      "id": "2428",
+      "name": "Black Skinny Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Jeans_1.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Jeans",
+      "price": "2600",
+      "stock": 23
+    },
+    {
+      "id": "2429",
+      "name": "Light Wash Skinny Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Jeans_2.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Jeans",
+      "price": "2500",
+      "stock": 23
+    },
+    {
+      "id": "2430",
+      "name": "Wash Skinny Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Jeans_3.jpg?alt=media",
+      "brand": "Hollister",
+      "category": "Jeans",
+      "price": "2950",
+      "stock": 23
+    },
+    {
+      "id": "2431",
+      "name": "Basic Check Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Shirt_1.jpg?alt=media",
+      "brand": "Pull & Bear",
+      "category": "Shirts",
+      "price": "2900",
+      "stock": 23
+    },
+    {
+      "id": "2432",
+      "name": "Basic Twill Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Shirt_2.jpg?alt=media",
+      "brand": "Pull & Bear",
+      "category": "Shirts",
+      "price": "2700",
+      "stock": 23
+    },
+    {
+      "id": "2433",
+      "name": "Striped Denim Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Shirt_3.jpg?alt=media",
+      "brand": "Pull & Bear",
+      "category": "Shirts",
+      "price": "3120",
+      "stock": 23
+    },
+    {
+      "id": "2434",
+      "name": "Sky Blue Hoodie",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Hoodie_1.jpg?alt=media",
+      "brand": "Pull & Bear",
+      "category": "Hoodies",
+      "price": "2300",
+      "stock": 23
+    },
+    {
+      "id": "2435",
+      "name": "Printed Hoodie",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Hoodie_2.jpg?alt=media",
+      "brand": "Pull & Bear",
+      "category": "Hoodies",
+      "price": "2830",
+      "stock": 23
+    },
+    {
+      "id": "2436",
+      "name": "Slogan Hoodie",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Hoodie_3.jpg?alt=media",
+      "brand": "Pull & Bear",
+      "category": "Hoodies",
+      "price": "2490",
+      "stock": 23
+    },
+    {
+      "id": "2437",
+      "name": "Blue Ripped Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Jeans_1.jpg?alt=media",
+      "brand": "Pull & Bear",
+      "category": "Jeans",
+      "price": "2870",
+      "stock": 23
+    },
+    {
+      "id": "2438",
+      "name": "Black Ripped Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Jeans_2.jpg?alt=media",
+      "brand": "Pull & Bear",
+      "category": "Jeans",
+      "price": "2930",
+      "stock": 23
+    },
+    {
+      "id": "2439",
+      "name": "Blue Bleached Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Jeans_3.jpg?alt=media",
+      "brand": "Pull & Bear",
+      "category": "Jeans",
+      "price": "2600",
+      "stock": 23
+    },
+    {
+      "id": "2440",
+      "name": "Grey Skinny Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Jeans_4.jpg?alt=media",
+      "brand": "Pull & Bear",
+      "category": "Jeans",
+      "price": "2700",
+      "stock": 23
+    },
+    {
+      "id": "2441",
+      "name": "Abstract Print Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Shirt_1.jpg?alt=media",
+      "brand": "Zara",
+      "category": "Shirts",
+      "price": "2490",
+      "stock": 23
+    },
+    {
+      "id": "2442",
+      "name": "Abstract Print Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Shirt_2.jpg?alt=media",
+      "brand": "Zara",
+      "category": "Shirts",
+      "price": "2370",
+      "stock": 23
+    },
+    {
+      "id": "2443",
+      "name": "Geometric Print Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Shirt_3.jpg?alt=media",
+      "brand": "Zara",
+      "category": "Shirts",
+      "price": "2640",
+      "stock": 23
+    },
+    {
+      "id": "2444",
+      "name": "Geometric Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Shirt_4.jpg?alt=media",
+      "brand": "Zara",
+      "category": "Shirts",
+      "price": "2900",
+      "stock": 23
+    },
+    {
+      "id": "2445",
+      "name": "Stiped Print Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Shirt_5.jpg?alt=media",
+      "brand": "Zara",
+      "category": "Shirts",
+      "price": "2190",
+      "stock": 23
+    },
+    {
+      "id": "2446",
+      "name": "Striped Textured Shirt",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Shirt_6.jpg?alt=media",
+      "brand": "Zara",
+      "category": "Shirts",
+      "price": "2780",
+      "stock": 23
+    },
+    {
+      "id": "2447",
+      "name": "Blue Ripped Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Jeans_1.jpg?alt=media",
+      "brand": "Zara",
+      "category": "Jeans",
+      "price": "3200",
+      "stock": 23
+    },
+    {
+      "id": "2448",
+      "name": "Grey Cropped Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Jeans_2.jpg?alt=media",
+      "brand": "Zara",
+      "category": "Jeans",
+      "price": "3450",
+      "stock": 23
+    },
+    {
+      "id": "2449",
+      "name": "Paint Splatter Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Jeans_3.jpg?alt=media",
+      "brand": "Zara",
+      "category": "Jeans",
+      "price": "4200",
+      "stock": 23
+    },
+    {
+      "id": "2450",
+      "name": "Blue Ripped Jeans",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Jeans_4.jpg?alt=media",
+      "brand": "Zara",
+      "category": "Jeans",
+      "price": "3350",
+      "stock": 23
+    }
+  ]
+}
